@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-02T19:59:00.285Z'
+datePublished: '2016-06-02T20:11:55.323Z'
 sourcePath: _posts/2016-04-16-hyperloop-wants-to-connect-these-major-european-cities-with.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-02T19:58:59.290Z'
+dateModified: '2016-06-02T20:11:54.140Z'
 title: Hyperloop wants to connect these major European cities with high-speed trains.
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "Vienna to Bratislava in eight minutes flat: that's exactly what Hyperloop Transportation Technologies (HTT) is hoping to do with their new proposed high-speed train. The company recently signed a deal with the government of Slovakia to investigate the possibility of building a Hyperloop that would link three European capitals."
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
