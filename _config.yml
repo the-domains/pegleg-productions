@@ -1,5 +1,6 @@
-layout_spectrum: 0.6256976414006203
 typography_spectrum: 0.3445799802429974
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8409096978139132
   lightness: 0.4606169874314219
@@ -11,4 +12,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6256976414006203
+logo: null
 name: PEGLEG PRODUCTIONS
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/910a967e-cd96-4aa9-a2c0-272d968bf236.jpg'
